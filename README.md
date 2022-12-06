@@ -1,5 +1,5 @@
 - ✌🏾 Hi, I’m Abi Stephenson
-- 👩🏾‍💻 I am a student at Social Hacker Academy, studying Blockchain Development and looking to change the world through technology
+- 👩🏾‍💻 I am a student at @SocialHackerAcademy, studying Blockchain Development and looking to change the world through technology
 - 🌱 I’m currently learning HTML, CSS, Javascript, Solidity
 
 
